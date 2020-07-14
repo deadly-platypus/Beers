@@ -36,3 +36,11 @@ Boil
 1.	Nothern Brewer @ 2 minutes
 1.	Nugget @ 2 minutes
 
+Target Specs
+------------
+* OG: 1.094
+* FG: 1.023
+* ABV: 9.3%
+* IBU: 43
+* SRM: 33
+
